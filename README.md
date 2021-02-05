@@ -4,9 +4,9 @@ These examples cover different aspects of several development tools and concepts
 
 ## 📑 Learning Topics
 
-- HTML
-- CSS
-- JavaScript
+- Semantic HTML5
+- CSS3
+- Vanilla JavaScript
 - JQuery
 - Sass
 
