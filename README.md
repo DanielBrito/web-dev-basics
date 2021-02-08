@@ -13,6 +13,7 @@ These examples cover different aspects of several development tools and concepts
 ## 🚀 Personal Projects
 
 - [Fun With Flags](https://github.com/DanielBrito/fun-with-flags)
+- [Website](https://danielbrito.github.io/)
 
 ## 🎉 Cool Stuff
 
