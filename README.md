@@ -1,6 +1,6 @@
 # :man_technologist: Web Development Basics
 
-These examples cover different aspects of several development tools and concepts related to the basics of web development from my [self-learning](https://github.com/DanielBrito/self-learning) studies.
+These examples cover different aspects of several development tools and concepts related to the basics of web development from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## 📑 Learning Topics
 
