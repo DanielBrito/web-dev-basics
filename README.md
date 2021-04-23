@@ -4,11 +4,12 @@ These examples cover different aspects of several development tools and concepts
 
 ## 📑 Learning Topics
 
-- Semantic HTML5
-- CSS3
+- Semantic HTML
+- CSS
 - Vanilla JavaScript
 - JQuery
 - Sass
+- Webpack
 
 ## 🚀 Personal Projects
 
