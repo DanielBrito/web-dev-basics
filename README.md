@@ -24,5 +24,5 @@ These examples cover different aspects of several development tools and concepts
 
 ## 👍 Helpful Content
 
-- JavaScript Algorithms and Data Structures [(freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- 10 Days of JavaScript [(HackerRank)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [10 Days of JavaScript (HackerRank)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
