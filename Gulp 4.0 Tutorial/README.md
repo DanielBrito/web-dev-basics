@@ -54,7 +54,7 @@ Here the steps:
   - **watch():** watch files and folders for changes.
   
 - Syntax to run multiple functions after 'gulp': `exports.default = parallel(copyHtml, imgTask);`
-- Syntax to tun each function individually after 'gulp copyHtml': `exports.copyHtml = copyHtml;`
+- Syntax to run each function individually after 'gulp copyHtml': `exports.copyHtml = copyHtml;`
 
 - After all we just have to upload the *disp* folder to the server (and be happy)...
 

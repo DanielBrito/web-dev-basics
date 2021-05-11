@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js","popup.js","Animations/animations.js"],"names":["message","console","log"],"mappings":"AAAA,MAAAA,QAAA,gBAEAC,QAAAC,IAAA,GAAAF,WCFAC,QAAAC,IAAA,SCAAD,QAAAC,IAAA","file":"all.js","sourcesContent":["const message = \"Hello, world!\";\n\nconsole.log(`${message}`);\n","console.log('popup');\n","console.log('animation');\n"]}
