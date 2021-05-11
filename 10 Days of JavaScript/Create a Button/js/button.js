@@ -1,3 +1,3 @@
-function increment() {
+btn.onclick = function() {
   btn.innerHTML++;
 }

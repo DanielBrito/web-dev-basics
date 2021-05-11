@@ -10,6 +10,7 @@ These examples cover different aspects of several development tools and concepts
 - JQuery
 - Sass
 - Webpack
+- Gulp
 
 ## 🚀 Personal Projects
 
