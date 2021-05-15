@@ -28,3 +28,4 @@ These examples cover different aspects of several development tools and concepts
 - [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [10 Days of JavaScript (HackerRank)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [JavaScript (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
