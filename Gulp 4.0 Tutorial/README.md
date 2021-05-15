@@ -18,8 +18,8 @@ So either install gulp 3 or learn here how it’s done with gulp version 4.
 
 Here the steps: 
 
-1. npm init 
-2. Install Gulp Globally 
+1. Create package.json (npm init -y)
+2. Install Gulp Globally (npm i gulp-cli -g)
 3. CD in the project folder 
 4. Install Gulp as dev dependency 
 5. Create Gulpfile.js 
