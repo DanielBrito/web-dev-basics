@@ -29,3 +29,9 @@ These examples cover different aspects of several development tools and concepts
 - [10 Days of JavaScript (HackerRank)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [JavaScript (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
+## :toolbox: Tools
+
+- [JS Bin](https://jsbin.com)
+
