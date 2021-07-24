@@ -34,4 +34,11 @@ These examples cover different aspects of several development tools and concepts
 ## :toolbox: Tools
 
 - [JS Bin](https://jsbin.com)
-
+- [Layoutit Grid](https://grid.layoutit.com/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Keyframes](https://keyframes.app/)
+- [Clippy](https://bennettfeely.com/clippy/)
+- [Glassmorphism CSS](https://glassmorphism.com/)
+- [Get Waves](https://getwaves.io/)
+- [Blobmaker](https://www.blobmaker.app/)
+- [Web Code Tools](https://webcode.tools/)
