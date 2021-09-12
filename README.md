@@ -22,6 +22,7 @@ These examples cover different aspects of several development tools and concepts
 
 - [CSSBattle](https://cssbattle.dev/) <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
 - [CSS-Tricks](https://css-tricks.com/)
+- [CSS Zen Garden](http://www.csszengarden.com/)
 
 ## 👍 Helpful Content
 
