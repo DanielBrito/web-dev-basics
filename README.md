@@ -15,7 +15,6 @@ These examples cover different aspects of several development tools and concepts
 ## 🚀 Personal Projects
 
 - [Website](https://danielbrito.github.io/)
-- [Fun With Flags](https://github.com/DanielBrito/fun-with-flags)
 - [Responsive Web Design (freeCodeCamp)](https://codepen.io/collection/nkmzqa)
 
 ## 🎉 Cool Stuff
