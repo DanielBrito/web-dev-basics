@@ -30,6 +30,7 @@ These examples cover different aspects of several development tools and concepts
 - [JavaScript (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## :toolbox: Tools
 
