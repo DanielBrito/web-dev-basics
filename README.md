@@ -6,7 +6,7 @@ These examples cover different aspects of several development tools and concepts
 
 - Semantic HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 - JQuery
 - Sass
 - Webpack
@@ -19,7 +19,7 @@ These examples cover different aspects of several development tools and concepts
 
 ## 🎉 Cool Stuff
 
-- [CSSBattle](https://cssbattle.dev/) <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
+- [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Zen Garden](http://www.csszengarden.com/)
 
