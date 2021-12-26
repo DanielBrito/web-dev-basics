@@ -1,3 +1,5 @@
-# Available at
+# Sass Crash Course
 
-[Sass Crash Course (Traversy Media)](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+## :eyes: Preview
+
+![Preview](preview.png)
