@@ -1,28 +1,24 @@
-# Disponível em
+# Desvendando CSS Grid
 
-[Desvendando CSS Grid na prática (Rocketseat)](https://www.youtube.com/watch?v=HN1UjzRSdBk)
-
----
-
-## GRID
+## Grid
 
 - Bimensional
 - Divisão de toda a página em linhas e colunas
 - Colocar elementos onde quiser nessa divisão
 
-## GRID OU FLEXBOX
+## Grid ou Flexbox
 
 - Grid: Duas dimensões (colunas e linhas)
 - Flexbox: Uma dimensão (ou coluna ou linha)
 - Um complementa o trabalho do outro
 - Verificar quais navegadores ainda não estão aceitando o Grid
 
-## PROPRIEDADES
+## Propriedades
 
 Vamos separar em 2 grupos:
 `container` e `item(s)`
 
-### CONTAINER
+### Container
 
 - display: grid;
 - grid-template-columns;
@@ -34,7 +30,7 @@ Vamos separar em 2 grupos:
 
 ...e mais 4 propriedades de alinhamento.
 
-## ITEM(s)
+## Item(s)
 
 - grid-column
   - grid-column-start
@@ -48,7 +44,7 @@ Vamos separar em 2 grupos:
 
 ---
 
-### ALINHAMENTO
+### Alinhamento
 
 Existem 6 propriedades para alinhamento:
 
@@ -112,3 +108,27 @@ Podemos usar **4 valores**:
 `justify-self` e `align-self` vai nos permitir alinhar o item em si.
 
 Faz a mesma coisa que o `justify-items` e `align-items`, porém, aplicado diretamente no item de um grid
+
+---
+
+## :eyes: Prévias
+
+### Alinhamento Content:
+
+![Prévia](preview_alinhamento_content.png)
+
+### Alinhamento Items:
+
+![Prévia](preview_alinhamento_items.png)
+
+### Alinhamento Self:
+
+![Prévia](preview_alinhamento_self.png)
+
+### Container:
+
+![Prévia](preview_container.png)
+
+### Items:
+
+![Prévia](preview_items.png)
