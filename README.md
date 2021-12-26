@@ -1,6 +1,6 @@
 # :man_technologist: Web Development Basics
 
-These examples cover different aspects of several development tools and concepts related to the basics of web development from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
+These experiments cover different tools and concepts related to the basics of web development from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## 📑 Learning Topics
 
@@ -12,22 +12,25 @@ These examples cover different aspects of several development tools and concepts
 - Webpack
 - Gulp
 
-## 🚀 Personal Projects
+## 🚀 Projects
 
 - [Website](https://danielbrito.github.io/)
-- [Responsive Web Design (freeCodeCamp)](https://codepen.io/collection/nkmzqa)
+- [Responsive Web Design](https://codepen.io/collection/nkmzqa) (freeCodeCamp)
 
 ## 🎉 Cool Stuff
 
 - [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
 - [CSS-Tricks](https://css-tricks.com/)
+
+## :bulb: Inspiring Content
+
 - [CSS Zen Garden](http://www.csszengarden.com/)
 
-## 👍 Helpful Content
+## :card_file_box: Resources
 
-- [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- [10 Days of JavaScript (HackerRank)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
-- [JavaScript (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (freeCodeCamp)
+- [10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) (HackerRank)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (MDN Web Docs)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -39,7 +42,8 @@ These examples cover different aspects of several development tools and concepts
 - [CSS Gradient](https://cssgradient.io/)
 - [Keyframes](https://keyframes.app/)
 - [Clippy](https://bennettfeely.com/clippy/)
-- [Glassmorphism CSS](https://glassmorphism.com/)
+- [Glassmorphism CSS](https://glassmorphi.com/)
 - [Get Waves](https://getwaves.io/)
 - [Blobmaker](https://www.blobmaker.app/)
 - [Web Code Tools](https://webcode.tools/)
+- [Lorem Picsum](https://picsum.photos/)
