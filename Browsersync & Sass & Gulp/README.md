@@ -1,4 +1,5 @@
-# Browsersync + Sass + Gulp in 15 minutes
+# Browsersync & Sass & Gulp
 
-Available [here](https://www.youtube.com/watch?v=q0E1hbcj-NI).
+## Result
 
+![Webpage preview](preview.png)
