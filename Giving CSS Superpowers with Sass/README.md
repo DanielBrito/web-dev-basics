@@ -1,3 +1,5 @@
-# Learn Sass in this Free Crash Course - Give your CSS Superpowers! (DesignCourse)
+# Giving CSS Superpowers with Sass
 
-Available [here](https://www.youtube.com/watch?v=roywYSEPSvc).
+## :eyes: Preview
+
+![Preview](preview.png)
