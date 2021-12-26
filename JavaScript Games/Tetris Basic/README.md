@@ -1,9 +1,5 @@
 # Tetris Basic
 
-## Original
+## :eyes: Preview
 
 ![Tetris](original.png)
-
-## Customized
-
-In progress...
