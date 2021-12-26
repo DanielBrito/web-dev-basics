@@ -1,8 +1,4 @@
-# Disponível em
-
-[Desvendando a variável _this_ no JavaScript (Rocketseat)](https://www.youtube.com/watch?v=GSqR2i-Pq6o)
-
----
+# Desvendando o 'this' em JavaScript
 
 ## O que é "this"
 
