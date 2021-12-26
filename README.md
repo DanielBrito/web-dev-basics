@@ -2,7 +2,7 @@
 
 These experiments cover different tools and concepts related to the basics of web development from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
-## 📑 Learning Topics
+## 📑 Topics
 
 - Semantic HTML
 - CSS
@@ -17,12 +17,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [Website](https://danielbrito.github.io/)
 - [Responsive Web Design](https://codepen.io/collection/nkmzqa) (freeCodeCamp)
 
-## 🎉 Cool Stuff
-
-- [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
-- [CSS-Tricks](https://css-tricks.com/)
-
-## :bulb: Inspiring Content
+## :bulb: Inspiration
 
 - [CSS Zen Garden](http://www.csszengarden.com/)
 
@@ -47,3 +42,8 @@ These experiments cover different tools and concepts related to the basics of we
 - [Blobmaker](https://www.blobmaker.app/)
 - [Web Code Tools](https://webcode.tools/)
 - [Lorem Picsum](https://picsum.photos/)
+
+## 🎉 Fun
+
+- [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
+- [CSS-Tricks](https://css-tricks.com/)
