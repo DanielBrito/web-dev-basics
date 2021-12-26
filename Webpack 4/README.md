@@ -1,8 +1,6 @@
-# Webpack 4 Tutorial (Coursetro)
+# Webpack 4
 
-Available [here](https://www.youtube.com/watch?v=TzdEpgONurw).
-
-## Notes
+## :writing_hand: Notes
 
 - Create project (inside the folder) and install (dev) dependencies:
 
@@ -79,3 +77,9 @@ Available [here](https://www.youtube.com/watch?v=TzdEpgONurw).
   ```
 
 **Note:** The package file-loader is included in package.json but it doesn't work with babel-loader as expected, because after `npm run build` corrupted images were generated. I think there's a kind of conflict when both run together.
+
+---
+
+## :eyes: Preview
+
+![Preview](preview.png)
