@@ -1,14 +1,10 @@
-# Disponível em
-
-[API RESTful com JavaScript](https://www.youtube.com/watch?v=ghTrp1x_1As)
-
----
+# RESTful API com JavaScript
 
 ## API
 
-Cliente (Client)
-Garçom (pedidos, levar seus pedidos, para a cozinha) (API)
-Cozinha (Server)
+- Cliente (Client)
+- Garçom (pedidos, levar seus pedidos, para a cozinha) (API)
+- Cozinha (Server)
 
 Acrônimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
@@ -69,6 +65,7 @@ RESTful, é a aplicação dos padrões REST.
 - 1xx: Informação
 
 - 2xx: Sucesso
+
   - 200: OK
   - 201: CREATED
   - 204: Não tem conteúdo PUT POST DELETE
@@ -76,6 +73,7 @@ RESTful, é a aplicação dos padrões REST.
 - 3xx: Redirection
 
 - 4xx: Client Error
+
   - 400: Bad Request
   - 404: Not Found
 

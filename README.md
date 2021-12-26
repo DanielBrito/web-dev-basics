@@ -29,6 +29,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Can I Use](https://caniuse.com/)
 
 ## :toolbox: Tools
 
@@ -42,6 +43,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [Blobmaker](https://www.blobmaker.app/)
 - [Web Code Tools](https://webcode.tools/)
 - [Lorem Picsum](https://picsum.photos/)
+- [Place-Hold.it](https://place-hold.it/)
 
 ## 🎉 Fun
 

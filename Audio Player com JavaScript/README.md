@@ -1,6 +1,4 @@
-# Disponível em
-
-[Criando Player de Áudio com Javascript (Rocketseat)](https://www.youtube.com/watch?v=vqrjFnq3-uo)
+# Player de Áudio com Javascript
 
 ## Utilitários
 
@@ -9,6 +7,6 @@
 
 ## Resultado
 
-No meu caso, adicionei as features para avançar ou retroceder.
+No meu caso, fui além, adicionando as features de avançar e retroceder.
 
 ![Rocketcast](resultado.png)
