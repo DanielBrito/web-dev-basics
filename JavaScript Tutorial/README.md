@@ -1,3 +1,3 @@
-# Available at
+# JavaScript Tutorial
 
-https://www.w3schools.com/js/default.asp
+Available at [W3Schools](https://www.w3schools.com/js/default.asp).

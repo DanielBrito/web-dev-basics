@@ -1,3 +1,13 @@
-# Available at
+# JQuery Crash Course
 
-[JQuery Crash Course (Traversy Media)](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc)
+## :eyes: Previews
+
+![Preview AJAX](preview_ajax.png)
+
+![Preview Animation](preview_animation.png)
+
+![Preview DOM](preview_dom.png)
+
+![Preview Events](preview_events.png)
+
+![Preview Selectors](preview_selectors.png)
