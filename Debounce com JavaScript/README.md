@@ -1,6 +1,4 @@
-# Disponível em
-
-[Criando função Debounce do Zero com JavaScript (Rocketseat)](https://www.youtube.com/watch?v=OyTPNNIy3pc)
+# Debounce com JavaScript
 
 ## Debounce
 
@@ -10,3 +8,9 @@
 ## Praticar
 
 - Campo de filtro/pesquisa
+
+---
+
+## :eyes: Prévia
+
+![Prévia](preview.png)
