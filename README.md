@@ -30,6 +30,8 @@ These experiments cover different tools and concepts related to the basics of we
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Can I Use](https://caniuse.com/)
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [SmolCSS](https://smolcss.dev/)
 
 ## :toolbox: Tools
 
