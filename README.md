@@ -44,6 +44,9 @@ These experiments cover different tools and concepts related to the basics of we
 - [Web Code Tools](https://webcode.tools/)
 - [Lorem Picsum](https://picsum.photos/)
 - [Place-Hold.it](https://place-hold.it/)
+- [JSON Formatter](https://jsonformatter.curiousconcept.com)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [ImageOptim](https://imageoptim.com/versions.html)
 
 ## 🎉 Fun
 
