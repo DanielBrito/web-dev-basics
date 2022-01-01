@@ -30,6 +30,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Can I Use](https://caniuse.com/)
+- [CSS-Tricks](https://css-tricks.com/)
 
 ## :toolbox: Tools
 
@@ -45,7 +46,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [Lorem Picsum](https://picsum.photos/)
 - [Place-Hold.it](https://place-hold.it/)
 
-## 🎉 Fun
+## :rocket: Challenges
 
 - [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
-- [CSS-Tricks](https://css-tricks.com/)
+- [Ace Front-end](https://www.acefrontend.com/)
