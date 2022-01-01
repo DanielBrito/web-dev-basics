@@ -31,6 +31,8 @@ These experiments cover different tools and concepts related to the basics of we
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Can I Use](https://caniuse.com/)
 - [CSS-Tricks](https://css-tricks.com/)
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [SmolCSS](https://smolcss.dev/)
 
 ## :toolbox: Tools
 
@@ -45,6 +47,9 @@ These experiments cover different tools and concepts related to the basics of we
 - [Web Code Tools](https://webcode.tools/)
 - [Lorem Picsum](https://picsum.photos/)
 - [Place-Hold.it](https://place-hold.it/)
+- [JSON Formatter](https://jsonformatter.curiousconcept.com)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [ImageOptim](https://imageoptim.com/versions.html)
 
 ## :rocket: Challenges
 
