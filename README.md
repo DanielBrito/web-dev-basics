@@ -53,6 +53,6 @@ These experiments cover different tools and concepts related to the basics of we
 
 ## ⚔️ Challenges
 
-- [CSSBattle](https://cssbattle.dev/) <span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
+- [CSSBattle](https://cssbattle.dev/)<span>&nbsp; <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
 - [Ace Front-end](https://www.acefrontend.com/)
 - [100 Days CSS](https://100dayscss.com/)
