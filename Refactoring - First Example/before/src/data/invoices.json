@@ -1,0 +1,32 @@
+[
+  {
+    "customer": "BigCo",
+    "performances": [
+      {
+        "playID": "hamlet",
+        "audience": 55
+      },
+      {
+        "playID": "as-like",
+        "audience": 35
+      },
+      {
+        "playID": "othello",
+        "audience": 40
+      }
+    ]
+  },
+  {
+    "customer": "Disney",
+    "performances": [
+      {
+        "playID": "mickey",
+        "audience": 45
+      },
+      {
+        "playID": "goofy",
+        "audience": 36
+      }
+    ]
+  }
+]

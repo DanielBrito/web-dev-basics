@@ -9,8 +9,9 @@ These experiments cover different tools and concepts related to the basics of we
 - JavaScript
 - JQuery
 - Sass
-- Webpack
+- Babel
 - Gulp
+- Webpack
 
 ## 🚀 Projects
 

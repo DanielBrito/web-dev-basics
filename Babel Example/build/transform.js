@@ -3,6 +3,10 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var toUpper = exports.toUpper = function toUpper(str) {
+exports.toUpper = void 0;
+
+var toUpper = function toUpper(str) {
   return str.toUpperCase();
 };
+
+exports.toUpper = toUpper;

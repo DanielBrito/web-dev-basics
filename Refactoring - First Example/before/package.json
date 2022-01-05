@@ -1,0 +1,14 @@
+{
+  "name": "before",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build --copy-files"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7"
+  }
+}
