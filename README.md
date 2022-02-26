@@ -15,7 +15,7 @@ These experiments cover different tools and concepts related to the basics of we
 
 ## 🚀 Projects
 
-- [Website](https://danielbrito.github.io/)
+- [Personal Website](https://danielbrito.github.io/)
 - [Responsive Web Design](https://codepen.io/collection/nkmzqa) (freeCodeCamp)
 
 ## :bulb: Inspiration
