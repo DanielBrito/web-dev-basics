@@ -4,5 +4,5 @@ _Learn what it means to become a full-stack engineer! If you’re going to be a 
 
 ## Reference
 
-[Full-stack for Front-end Engineers v2](https://frontendmasters.com/courses/fullstack-v2/)
+[Full-stack for Front-end Engineers v2](https://frontendmasters.com/courses/fullstack-v2/) (Frontend Masters)
 
