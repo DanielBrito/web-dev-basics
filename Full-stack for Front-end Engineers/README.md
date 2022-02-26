@@ -1,4 +1,4 @@
-# Full-Stack For Front-Eend Engineers
+# Full-Stack For Front-End Engineers
 
 _Learn what it means to become a full-stack engineer! If you’re going to be a well rounded engineer, it’s important you understand what is happening on the server-side. In this course, you'll learn to move back and forth between UI and the back-end through the command line, SSH, nginx, docker containers, server security, HTTP/2, HTTP/3 and more._
 
