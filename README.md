@@ -34,6 +34,7 @@ These experiments cover different tools and concepts related to the basics of we
 - [CSS-Tricks](https://css-tricks.com/)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [SmolCSS](https://smolcss.dev/)
+- [Web Almanac](https://almanac.httparchive.org/en/2022/)
 
 ## :toolbox: Tools
 
