@@ -58,3 +58,5 @@ These experiments cover different tools and concepts related to the basics of we
 - [Ace Front-end](https://www.acefrontend.com/)
 - [100 Days CSS](https://100dayscss.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Challenges](https://css-challenges.com/)
+
