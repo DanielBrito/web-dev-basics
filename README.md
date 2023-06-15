@@ -4,7 +4,6 @@ These experiments cover different tools and concepts related to the basics of we
 
 ## 📑 Topics
 
-- Software Engineering
 - Semantic HTML
 - CSS
 - JavaScript
@@ -62,3 +61,4 @@ These experiments cover different tools and concepts related to the basics of we
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Challenges](https://css-challenges.com/)
 - [JavaScript 30](https://javascript30.com/)
+
