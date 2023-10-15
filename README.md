@@ -61,4 +61,5 @@ These experiments cover different tools and concepts related to the basics of we
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Challenges](https://css-challenges.com/)
 - [JavaScript 30](https://javascript30.com/)
-
+- [CSS Dinner](https://flukeout.github.io/)
+- [Grid Garden](https://cssgridgarden.com/)
