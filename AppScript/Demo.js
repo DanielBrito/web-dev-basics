@@ -133,7 +133,7 @@ function addTask(userId, title, completed, sheetName, lineNumber) {
       SpreadsheetApp.getActiveSheet().getRange(`${sheetName}!E${lineNumber+1}`).setValue(`${responseCode} - Successful`)
       return JSON.parse(responseContent)
     } else {
-      Logger.log(`Failed to add task from user ${userId}: ${responseCode} - ${responseContent}`)
+      Logger.log(`Failed to add task from user with id ${userId}: ${responseCode} - ${responseContent}`)
       SpreadsheetApp.getActiveSheet().getRange(`${sheetName}!E${lineNumber+1}`).setValue(`${responseCode} - ${responseContent}`)
       return null
     }
